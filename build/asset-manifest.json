@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3dff3217.css",
+    "main.js": "/static/js/main.7a8a5138.js",
+    "static/media/landersweden2.jpg": "/static/media/landersweden2.e42988756c8c557ba6ec.jpg",
+    "static/media/lander.jpg": "/static/media/lander.35ba0369688f3a1a7878.jpg",
+    "static/media/dalle.jpg": "/static/media/dalle.cb972c45646823675715.jpg",
+    "static/media/pettersson.jpg": "/static/media/pettersson.ba865eb71cae94f5988a.jpg",
+    "static/media/petterssonsweden.jpg": "/static/media/petterssonsweden.de32278dcd3b758a167a.jpg",
+    "static/media/dahlensweden.jpg": "/static/media/dahlensweden.e81dcc3ab56571ec2246.jpg",
+    "static/media/nhc.jpeg": "/static/media/nhc.00ab33f59433780a87c4.jpeg",
+    "static/media/wedin.jpg": "/static/media/wedin.0163eeccc297de122c0c.jpg",
+    "static/media/wedinsweden.jpg": "/static/media/wedinsweden.a54b7175641ecca62ae4.jpg",
+    "index.html": "/index.html",
+    "main.3dff3217.css.map": "/static/css/main.3dff3217.css.map",
+    "main.7a8a5138.js.map": "/static/js/main.7a8a5138.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dff3217.css",
+    "static/js/main.7a8a5138.js"
+  ]
+}
